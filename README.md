@@ -2,6 +2,8 @@
 
 Add OAuth2 authentication to CTFd 2.x using compatible providers. Users can be linked between the CTFd User database and the OAuth provider; these users can be created on the fly or not.
 
+## THIS PLUGIN DOES NOT YET WORK PROPERLY!
+
 ✅ `Flask-Dance` is required.
 
 ## Supported Providers:
